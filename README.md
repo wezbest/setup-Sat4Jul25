@@ -1,2 +1,2 @@
-# setup-Sat4Jul25
-Setup
+<p align="center">
+<img src="1.webp" alt="Demo image" width="2400">
